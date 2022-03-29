@@ -11,7 +11,7 @@ require (
 	github.com/getkin/kin-openapi v0.2.0
 	github.com/go-logr/logr v0.3.0
 	github.com/go-openapi/spec v0.19.6
-	github.com/gogo/protobuf v1.3.1
+	github.com/gogo/protobuf v1.3.2
 	github.com/golang/protobuf v1.4.2
 	github.com/google/go-cmp v0.5.2
 	github.com/google/uuid v1.1.1
@@ -26,7 +26,7 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.5.1
 	go.uber.org/zap v1.15.0
-	golang.org/x/net v0.0.0-20200904194848-62affa334b73
+	golang.org/x/net v0.0.0-20201021035429-f5854403a974
 	google.golang.org/api v0.31.0
 	google.golang.org/grpc v1.31.1
 	google.golang.org/protobuf v1.25.0
