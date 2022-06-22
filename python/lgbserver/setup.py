@@ -37,7 +37,7 @@ setup(
         "lightgbm == 2.3.1",
         "pandas == 0.25.3",
         "argparse >= 1.4.0",
-        "numpy == 1.19.5",
+        "numpy == 1.22.0",
     ],
     tests_require=tests_require,
     extras_require={'test': tests_require}
